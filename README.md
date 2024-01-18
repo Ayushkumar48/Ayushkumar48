@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushkumar48](https://github.com/Ayushkumar48)
 
-- 💬 Ask me about **Java fundamentals, C++, FrontEnd WebDev, Unreal Engine, Unity Engine**
+- 💬 Ask me about **Java fundamentals, C++, Data Structures, Algorithms, FrontEnd WebDev, Unreal Engine, Unity Engine**
 
 - 📫 How to reach me **ayushsuperstar48@gmail.com**
 
