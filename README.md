@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms using C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms using C++, Python and JavaScript for WebDev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushkumar48](https://github.com/Ayushkumar48)
 
