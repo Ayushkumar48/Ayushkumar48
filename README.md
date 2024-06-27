@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms using C++, Python and JavaScript for WebDev**
+- 🌱 I’m currently learning **Svelte and Node.js for Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushkumar48](https://github.com/Ayushkumar48)
 
-- 💬 Ask me about **Java fundamentals, C++, Data Structures, Algorithms, FrontEnd WebDev, Unreal Engine, Unity Engine**
+- 💬 Ask me about **C++, Data Structures, Algorithms, FrontEnd WebDev, JavaScript, Svelte, Node.js, SQL, Git, GitHub, TailwindCSS, BootStrap**
 
 - 📫 How to reach me **ayushsuperstar48@gmail.com**
 
