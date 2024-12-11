@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ayush, a final-year Computer Science student at Vellore Institute of Technology, Bhopal. I'm passionate about leveraging technology to solve real-world problems and creating impactful solutions through innovative development practices. Currently, I'm learning Android development using SvelteKit, Capacitor, and Android Studio. I'm building a Zomato clone as part of my learning journey. In the past, I have worked on multiple projects using web technologies like SvelteKit, Node.js, MongoDB, and more.	
+Hi, I'm Ayush, a final-year Computer Science student at Vellore Institute of Technology, Bhopal. I'm passionate about leveraging technology to solve real-world problems and creating impactful solutions through innovative development practices. Currently, I'm learning Android development using SvelteKit, Capacitor, and Android Studio. I'm building a inRetro, a learning app for newbies in tech as part of my learning journey. In the past, I have worked on multiple projects using web technologies like SvelteKit, Node.js, MongoDB, and more.	
 
 
 ## 🌐 Socials:
