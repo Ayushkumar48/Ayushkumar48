@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Web and Android Developer from India</h3>
+<h3 align="center">Android and Web Developer from India</h3>
 
 - 🔭 I’m currently working on [inRetro](https://github.com/Ayushkumar48/inRetro)
 
