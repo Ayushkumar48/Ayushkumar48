@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Android and Web Developer from India</h3>
 
-- 🔭 I’m currently working on [Store It](https://github.com/Ayushkumar48/store-it)
+- 🔭 I’m currently working on [ConfessBay](https://github.com/Ayushkumar48/confessbay)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://ayushkumar48.vercel.app/](https://ayushkumar48.vercel.app/)
 
