@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayushsuperstar48@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/10B29Tq-Gf_5Ej-2TcxVmraOn7DGNZmrH/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ymB83qcWbLq1q9gklbPEvYtudrOIax4T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
